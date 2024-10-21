@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hansignop.github.io/hansignop.txt.gz
+Sitemap: https://hansignop.github.io/app/hansignop.txt.gz
+Sitemap: https://hansignop.github.io/assets/hansignop.txt.gz
+Sitemap: https://hansignop.github.io/css/hansignop.txt.gz
+Sitemap: https://hansignop.github.io/includes/hansignop.txt.gz
+Sitemap: https://hansignop.github.io/item/hansignop.txt.gz
+Sitemap: https://hansignop.github.io/src/hansignop.txt.gz
